@@ -5,5 +5,5 @@ load_dotenv()
 
 API_ID = int(os.getenv("8733952"))
 API_HASH = os.getenv("API_HASH : 858e4d8e6f4986317031c0b83373d865")
-SESSION = os.getenv("SESSION")
+SESSION = os.getenv("1BVtsOIgBuw2UL1Z0_hY0MimgZTllBBD4fg28Yriki75z-9CspKeOmFGX3Ug89kXfvnON2HkTUBTv7oFD_3roWnzmj-xRShyca4HiWHd6P5jvhucEOrpKjQO53bCnttQVLuxMvojjMAYfMhxozmvq3wd49oEw-wgipNL1r2hOed8mS6ixmaUI8b3InkfodRiKJLZ4FVHXybosjKPaI4ffz0IvYI5I6IaWlm5a6_gLOAVuZsj0oDJnFKZGc8S5Hpnn12_MBJWJaF5T7mnSCitcZHc9UYnz320nlf8dTZZZOVsXAZzeR9i-4YdCzDNg5a8Wwpeb_ciyAPpgSP9rN2QKLBTilbzsBV0=")
 VC_SESSION = os.getenv("VC_SESSION")
